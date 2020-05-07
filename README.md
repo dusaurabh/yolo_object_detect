@@ -21,3 +21,7 @@ Software Requirements:-
 2) Anaconda
 3) Jupyter
 
+YOLO Object Detection looks like:-
+
+![](images/out_13.PNG)
+
