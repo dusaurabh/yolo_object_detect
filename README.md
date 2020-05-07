@@ -15,3 +15,9 @@ This Repository contains YOLO object detection model
 8. Truck
 9. Dining Table
 10. Bike
+
+Software Requirements:-
+1) OpenCV
+2) Anaconda
+3) Jupyter
+
